@@ -1,6 +1,6 @@
 # GRC Engineering Security Enforcer
 
-<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/718a6656-f526-4ee2-ac76-5db055f4726f" />
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/833cb4df-8887-4133-8110-c1f209366c51" />
 
 
 ## 1. Executive Summary
@@ -162,7 +162,7 @@ Validated command evidence:
 
 One public-safe evidence screenshot was added:
 
-<img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/8a46c6b7-5481-4336-be2c-aa6d775a98a6" />
+<img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/f3708890-f498-4c36-91bb-3300f938e61f" />
 
 
 ### Test and Control Evidence Summary
