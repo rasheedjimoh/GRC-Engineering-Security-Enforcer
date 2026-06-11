@@ -179,19 +179,6 @@ Why it matters:
 - Proves the project has public-safe visual evidence without exposing source code, secrets, private URLs, raw logs, or local paths.
 - Summarizes the verified security test results and implemented control areas.
 
-Live browser capture was attempted with local Edge headless, but this environment did not produce a browser screenshot file. A manual capture checklist is still provided:
-
-- [Screenshot Checklist](./evidence/screenshots/screenshot-checklist.md)
-
-Additional screenshots to add manually before publishing:
-
-- Dashboard or chat workflow overview with no private prompts.
-- Blocked action response showing the public-safe compliance decision.
-- Test run summary showing 8 passing security tests.
-- Evidence folder view showing sanitized report artifacts.
-
-Each screenshot should be reviewed against the redaction notes before publication.
-
 ## 10. Testing and Validation
 
 Commands run:
