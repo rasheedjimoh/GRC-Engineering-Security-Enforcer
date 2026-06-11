@@ -162,12 +162,10 @@ Validated command evidence:
 
 One public-safe evidence screenshot was added:
 
-<img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/f3708890-f498-4c36-91bb-3300f938e61f" />
-
 
 ### Test and Control Evidence Summary
 
-![Test and Control Evidence Summary](./evidence/screenshots/04-test-results.png)
+<img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/f3708890-f498-4c36-91bb-3300f938e61f" />
 
 What it shows:
 
